@@ -1,0 +1,8 @@
+{
+    "plots": [
+        {"title":"Current 0", "type": "day", "users": "logged", "building": "ATC","month": "8","day": "1","year": "2020"},
+        {"title":"Current 1", "type": "day", "users": "logged", "building": "ATC","month": "8","day": "1","year": "2020"},
+        {"title":"Current 2", "type": "day", "users": "logged", "building": "ATC","month": "8","day": "1","year": "2020"}
+        ]
+}
+

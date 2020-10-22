@@ -1,0 +1,30 @@
+{
+  "buildings":[
+    {"acr":"UIB","name": "UIB"},
+    {"acr":"EIV","name": "Seu d'Eivissa i Formentera"},
+    {"acr":"AT","name": "Anselm Turmeda"},
+    {"acr":"MEN","name":"Seu de Menorca"},
+    {"acr":"CO","name":"CO"},
+    {"acr":"CTI","name":"CTI"},
+    {"acr":"IE","name":"IE"},
+    {"acr":"IMD","name":"IMD"},
+    {"acr":"JO","name":"JO"},
+    {"acr":"RAP","name":"RAP"},
+    {"acr":"RES","name":"RES"},
+    {"acr":"SE","name":"SE"},
+    {"acr":"SR","name":"SR"},
+    {"acr":"CEP","name":"CEP"},
+    {"acr":"CJ","name":"CJ"},
+    {"acr":"CL","name":"CL"},
+    {"acr":"CON","name":"CON"},
+    {"acr":"GC","name":"GC"},
+    {"acr":"ITD","name":"ITD"},
+    {"acr":"MA","name":"MA"},
+    {"acr":"MO","name":"MO"},
+    {"acr":"OFI","name":"OFI"},
+    {"acr":"PF","name":"PF"},
+    {"acr":"RL","name":"RL"},
+    {"acr":"SCT","name":"SCT"},
+    {"acr":"SL","name":"SL"}
+  ]
+}

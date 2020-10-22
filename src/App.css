@@ -1,0 +1,78 @@
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+.card-container.card {
+  max-width: 350px !important;
+  padding: 40px 40px;
+}
+.row{
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -5px;
+  margin-left: 0px;
+}
+.card {
+  background-color: #f7f7f7;
+  /*padding: 20px 25px 30px;*/
+  margin: 0 auto 25px;
+  margin-top: 50px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+
+}.cardOccupation {
+  background-color: #f7f7f7;
+  /*padding: 20px 25px 30px;*/
+  margin: 0 auto 25px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+.card-header {
+  padding: .45rem 0.55rem;
+  margin-bottom: 0;
+  background-color: rgba(0,0,0,.03);
+  border-bottom: 1px solid rgba(0,0,0,.125);
+}
+.profile-img-card {
+  width: 96px;
+  height: 96px;
+  margin: 0 auto 10px;
+  display: block;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+}
+.pb-1, .py-1 {
+  padding-bottom: .15rem!important;
+}
+.rowstats{
+  border-color: #17a2b8 green #17a2b8 green;
+  border-style: dashed none dotted none;
+  border-width: 1px 0px 1px 0px;
+
+}
+
+.form-control {
+  display: block;
+  width: 90%;
+  height: calc(1em + 1rem + 2px);
+  padding: .175rem .75rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}

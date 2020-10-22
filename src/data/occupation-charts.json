@@ -1,0 +1,9 @@
+{
+    "plots": [
+        {"area": "uib"},
+        {"area": "athall"},
+        {"area": "at05"},
+        {"area": "atlab101"},
+        {"area": "atbar"}
+        ]
+}
